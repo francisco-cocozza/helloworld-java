@@ -5,7 +5,7 @@ package helloworld.java;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello SonarCloud!";
     }
 
     public static void main(String[] args) {
