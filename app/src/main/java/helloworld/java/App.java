@@ -5,10 +5,14 @@ package helloworld.java;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello SonarCloud!!!";
     }
     
     public String getGoodbye() {
+        return "Goodbye World!";
+    }
+    
+    public String getGoodbye2() {
         return "Goodbye World!";
     }
 
